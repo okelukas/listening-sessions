@@ -54,6 +54,10 @@ h1 span.sub {
     display: block;
 }
 
+.text-center {
+    text-align: center;
+}
+
 .upcoming-img {
     max-width: 100%;
 
